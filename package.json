@@ -1,0 +1,44 @@
+{
+  "name": "mux-dark",
+  "displayName": "MUX Dark",
+  "description": "A minimal pure-black VS Code theme with subtle translucent cyan accents.",
+  "version": "1.0.0",
+  "publisher": "mahfuz0712",
+  "author": {
+    "name": "Mohammad Mahfuz Rahman",
+    "email": "mahfuzrahman0712@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "cyan",
+    "minimal",
+    "cybersecurity",
+    "mux"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MUX Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mux-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahfuz0712/mux-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahfuz0712/mux-dark/issues"
+  },
+  "homepage": "https://github.com/mahfuz0712/mux-dark#readme"
+}
